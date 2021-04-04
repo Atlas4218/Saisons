@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Saisons</string>
+    <string name="titre_menu">Menu</string>
+    <string name="titre_printemps">Printemps</string>
+    <string name="titre_ete">été</string>
+    <string name="titre_automne">Automne</string>
+    <string name="titre_hiver">Hiver</string>
+    <string name="tab_text_1" />
+    <string name="tab_text_2" />
+</resources>
